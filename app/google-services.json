@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "317969974577",
+    "firebase_url": "https://one2onechat-70172.firebaseio.com",
+    "project_id": "one2onechat-70172",
+    "storage_bucket": "one2onechat-70172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317969974577:android:d2cf9e2f0458c633",
+        "android_client_info": {
+          "package_name": "com.haniffarhan.training.one2onechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317969974577-2tt5vnhvspmq69i48iu6areeep5ho5c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haniffarhan.training.one2onechat",
+            "certificate_hash": "b2d8737fcbf0375907049932b933019958f919f9"
+          }
+        },
+        {
+          "client_id": "317969974577-6q547qd0vu14040vpqvr26vfpn82q75v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKWIfJDTx74JCtj_uEMuFs6Uf-WqCs8Ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317969974577-6q547qd0vu14040vpqvr26vfpn82q75v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
